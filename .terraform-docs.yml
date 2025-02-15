@@ -1,0 +1,7 @@
+formatter: markdown
+sections:
+  hide:
+    - providers
+settings:
+  anchor: false
+  html: true
